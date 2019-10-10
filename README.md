@@ -1,2 +1,2 @@
 # pg-backups
-Postgres backup scripts for daily and monthly with retention periods
+Postgres daily and monthly backup scripts with retention periods. For use with pgAgent scheduling.
