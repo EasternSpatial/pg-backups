@@ -1,5 +1,5 @@
 @echo off
-set BACKUPDIR="backupdir"
+set BACKUPDIR="backupdir for daily retention"
 set PGHOST="host ip"
 set PGUSER="user"
 set PGBIN="C:\Program Files\PostgreSQL\10\bin\"
